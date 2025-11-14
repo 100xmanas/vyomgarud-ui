@@ -15,6 +15,9 @@ Frontend landing page for VyomGarud. Fast, modern, and responsive UI built with 
 
 # What I Learned
 
+This project was an assignment from **VyomGarud** to create a modern, responsive landing page for their company. I completed the project within 2 days, including both the full landing page design and ensuring responsiveness across devices.
+
+During the development, I learned:
 - Structuring a **modern React project** with reusable components.  
 - Implementing **responsive design** using Tailwind CSS breakpoints.  
 - Using **Framer Motion** to add smooth animations for UI interactions.   
