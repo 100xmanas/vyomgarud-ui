@@ -1,7 +1,7 @@
 import hero from "../assets/hero-video.mp4";
 import { motion } from "framer-motion";
 import { MoveRight } from "lucide-react";
-import Nav from "./nav";
+import Nav from "./Nav";
 
 const Hero = () => {
   return (
