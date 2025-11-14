@@ -4,9 +4,9 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import About from "./components/About";
 
-import D1 from "./assets/d1.jpg"
-import D2 from "./assets/d2.jpg"
-import D3 from "./assets/d3.jpg"
+import D1 from "./assets/d1.jpg";
+import D2 from "./assets/d2.jpg";
+import D3 from "./assets/d3.jpg";
 import MiniCircle from "./components/MiniCircle";
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Hero />
       <main className="bg-linear-to-b from-[#0a0a0a] to-[#300000]">
         <About />
-        <div className="cards min-h-screen flex items-center justify-between px-16">
+        <div className="cards min-h-screen flex flex-wrap justify-center gap-16 px-4 sm:px-8 md:px-16 py-12">
           <Card
             title="Engineered For Extremes"
             des="Our UAV platforms are tested and validated for military-grade endurance, weather resistance, and operational stability."

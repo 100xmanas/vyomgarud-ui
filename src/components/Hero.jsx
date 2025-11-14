@@ -37,7 +37,7 @@ const Hero = () => {
 
         <button
           type="button"
-          className="font-normal text-md capitalize flex items-center gap-2  hover:bg-white/20 hover:shadow-lg border border-white/30 rounded-full mt-8 px-8 py-3 transition-all duration-200 ease-out text-white backdrop-blur-sm cursor-pointer"
+          className="font-normal text-md capitalize flex items-center gap-2  hover:bg-white/20 hover:shadow-lg hover:scale-105 border border-white/30 rounded-full mt-8 px-8 py-3 transition-all duration-200 ease-out text-white backdrop-blur-sm cursor-pointer "
         >
           contact us
           <MoveRight size={18} />
